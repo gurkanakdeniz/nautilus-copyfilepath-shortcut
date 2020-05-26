@@ -1,7 +1,7 @@
 # copy file path shortcut generator
  nautilus copyfile path 'x-special/nautilus-clipboard' prefix fix 
  
-** using: ctrl+shift+c **
+**using: ctrl+shift+c**
  
 ### Installing
 
